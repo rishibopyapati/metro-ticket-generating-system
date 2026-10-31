@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Metro Ticket Booking and QR Ticket Generation using ServiceNow
 
 ## Project Overview
@@ -327,3 +328,6 @@ details to generating a metro QR ticket.
 
 B.Tech -- Artificial Intelligence \& Data Science
 
+=======
+# metro-ticket-generating-system
+>>>>>>> dd9c2f602ea574d90c63cbc44a1d236bff04bd82
